@@ -36,7 +36,7 @@ Il dataset comprende **24 istanze**, una per partecipante, e contiene informazio
 - immagini anonimizzate delle mappe fisiche,
 - link alle immagini archiviate in repository pubblico.
 
-La struttura completa e le definizioni tecniche sono presenti nel *Data Dictionary*.
+La struttura completa e le definizioni tecniche sono presenti nel file csv ***Data Dictionary_ws_collective_maps_small_data_bluecity***.
 
 ---
 
