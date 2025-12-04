@@ -1,14 +1,14 @@
 # Dataset di small data partecipativi sulla gestione dei rifiuti (Progetto Innosuisse Bluecity – Lugano)
-Dataset anonimizzato generato durante le attività partecipative del workshop “Pixel Urbani”,svoltosi dal 16 al 18 luglio 2025 e realizzato dall’Istituto Design della SUPSI nel contesto del progetto Innosuisse *Bluecity*.
+Dataset anonimizzato generato durante le attività partecipative del workshop [Pixel Urbani](https://www.supsi.ch/pixel-urbani),svoltosi dal 16 al 18 luglio 2025 e realizzato dall’Istituto Design della SUPSI nel contesto del progetto Innosuisse *Bluecity* con il coinvolgimento della cittadinanza di Lugano.
 
 ---
 
 ## 1. Contesto del progetto
-Il dataset *Buecity_small_data_mappe_collettive_rifiuti_urbani_lugano.csv* è stato sviluppato nell’ambito del progetto **Innosuisse Bluecity**, dedicato alla ricerca sulle *digital twin city* e sul ruolo dei dati nel supporto ai processi decisionali urbani.
+Il dataset *Buecity_small_data_mappe_collettive_rifiuti_urbani_lugano.csv* è stato sviluppato nell’ambito del progetto Innosuisse **[Bluecity](https://www.bluecity.store/)**, dedicato alla ricerca sulle *digital twin city* e sul ruolo dei dati nel supporto ai processi decisionali urbani.
 
 All’interno del progetto, l’Istituto Design della SUPSI ha collaborato con la Città di Lugano per esplorare il potenziale di raccolta degli **small data**, ovvero dati generati direttamente dalle pratiche quotidiane delle persone, spesso raccolti con metodologie partecipative, altamente situati e granulari. Gli small data permettono di integrare la dimensione esperienziale e locale nei sistemi informativi urbani, offrendo un contributo complementare rispetto ai big data istituzionali.
 
-La raccolta dei dati è avvenuta durante il workshop partecipativo **Pixel Urbani** (Lugano LongLake Festival 2025, 16 - 18 Luglio), in cui i cittadini hanno:
+La raccolta dei dati è avvenuta durante il workshop partecipativo **[Pixel Urbani](https://www.supsi.ch/pixel-urbani)** (Lugano LongLake Festival 2025, 16 - 18 Luglio) , in cui i cittadini hanno:
 
 - compilato mappe fisiche delle abitudini di smaltimento dei rifiuti,
 - tracciato percorsi verso punti di raccolta,
@@ -36,7 +36,7 @@ Il dataset comprende **24 istanze**, una per partecipante, e contiene informazio
 - immagini anonimizzate delle mappe fisiche,
 - link alle immagini archiviate in repository pubblico.
 
-La struttura completa e le definizioni tecniche sono presenti nel file csv *Data Dictionary_ws_collective_maps_small_data_bluecity*.
+La struttura completa e le definizioni tecniche sono presenti nel file csv *Data Dictionary_small_data_mappe_collettive_rifiuti_urbani_lugano.csv*.
 
 ---
 
@@ -52,7 +52,6 @@ Bluecity-Dataset-Small-Data-Lugano/
 ├─ Bluecity_small_data_mappe_collettive_rifiuti_urbani_lugano.csv         (dataset principale)
 ├─ Data Dictionary_small_data_mappe_collettive_rifiuti_urbani_lugano.csv  (data dictionary)
 ├─ Mappe_anonimizzate.zip                                                 (mappa_ID01.png; mappa_ID02.png; ...)
-├─ paper_small_data_bluecity_preprint.pdf                                 (opzionale / preprint)
 
 # File NON inclusi nel dataset pubblico
 - Il file "paper_small_data_bluecity_preprint.pdf" NON è parte del dataset.
