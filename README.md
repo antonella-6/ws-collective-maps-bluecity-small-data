@@ -4,7 +4,7 @@ Dataset anonimizzato generato durante le attività partecipative del workshop �
 ---
 
 ## 1. Contesto del progetto
-Il dataset è stato sviluppato nell’ambito del progetto **Innosuisse Bluecity**, dedicato alla ricerca sulle *digital twin city* e sul ruolo dei dati nel supporto ai processi decisionali urbani.
+Il dataset *Buecity_small_data_mappe_collettive_rifiuti_urbani_lugano.csv* è stato sviluppato nell’ambito del progetto **Innosuisse Bluecity**, dedicato alla ricerca sulle *digital twin city* e sul ruolo dei dati nel supporto ai processi decisionali urbani.
 
 All’interno del progetto, l’Istituto Design della SUPSI ha collaborato con la Città di Lugano per esplorare il potenziale di raccolta degli **small data**, ovvero dati generati direttamente dalle pratiche quotidiane delle persone, spesso raccolti con metodologie partecipative, altamente situati e granulari. Gli small data permettono di integrare la dimensione esperienziale e locale nei sistemi informativi urbani, offrendo un contributo complementare rispetto ai big data istituzionali.
 
@@ -36,7 +36,7 @@ Il dataset comprende **24 istanze**, una per partecipante, e contiene informazio
 - immagini anonimizzate delle mappe fisiche,
 - link alle immagini archiviate in repository pubblico.
 
-La struttura completa e le definizioni tecniche sono presenti nel file csv ***Data Dictionary_ws_collective_maps_small_data_bluecity***.
+La struttura completa e le definizioni tecniche sono presenti nel file csv *Data Dictionary_ws_collective_maps_small_data_bluecity*.
 
 ---
 
