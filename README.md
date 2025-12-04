@@ -42,8 +42,6 @@ La struttura completa e le definizioni tecniche sono presenti nel file csv *Data
 
 ## 3. File inclusi
 
-## 3. File inclusi
-
 Struttura della cartella GitHub e del pacchetto dati:
 
 ```text
@@ -55,6 +53,10 @@ Bluecity-Dataset-Small-Data-Lugano/
 ├─ Data Dictionary_small_data_mappe_collettive_rifiuti_urbani_lugano.csv  (data dictionary)
 ├─ Mappe_anonimizzate.zip                                                 (mappa_ID01.png; mappa_ID02.png; ...)
 ├─ paper_small_data_bluecity_preprint.pdf                                 (opzionale / preprint)
+
+# File NON inclusi nel dataset pubblico
+- Il file "paper_small_data_bluecity_preprint.pdf" NON è parte del dataset.
+  Il paper è disponibile separatamente su Zenodo ed è collegato tramite DOI https://doi.org/10.5281/zenodo.17813817.
 ```
 ---
 
