@@ -42,19 +42,20 @@ La struttura completa e le definizioni tecniche sono presenti nel file csv *Data
 
 ## 3. File inclusi
 
-```text
-WS-Collective-Maps-FAIR/
-├─ ws_collective_maps_small_data_bluecity.csv
-├─ data_dictionary_ws_collective_maps.csv
-├─ README.md
-├─ mappa_anonimizzata/
-│  ├─ mappa_01.png
-│  ├─ mappa_02.png
-│  └─ ...
-├─ paper_small_data_bluecity_preprint.pdf (opzionale)
-└─ mappatura_punti_raccolta_interno.xlsx (NON pubblicato)
-```
+## 3. File inclusi
 
+Struttura della cartella GitHub e del pacchetto dati:
+
+```text
+Bluecity-Dataset-Small-Data-Lugano/
+│
+├─ README.md
+├─ LICENSE
+├─ Bluecity_small_data_mappe_collettive_rifiuti_urbani_lugano.csv         (dataset principale)
+├─ Data Dictionary_small_data_mappe_collettive_rifiuti_urbani_lugano.csv  (data dictionary)
+├─ Mappe_anonimizzate.zip                                                 (mappa_ID01.png; mappa_ID02.png; ...)
+├─ paper_small_data_bluecity_preprint.pdf                                 (opzionale / preprint)
+```
 ---
 
 ## 4. Privacy e conformità alla nLPD
